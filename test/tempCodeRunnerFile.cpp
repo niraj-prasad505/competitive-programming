@@ -1,3 +1,1 @@
-for (char c : t) {
-        count[c]--;
-    }
+ // visited[ch]=true;
